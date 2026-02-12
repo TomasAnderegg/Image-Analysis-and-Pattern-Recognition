@@ -208,8 +208,8 @@ Best Kaggle score: **0.9534**
 
 Group 10 -- EPFL
 
--   Rayan Bouchalouf\
--   Vincent Ellenrieder\
+-   Rayan Bouchalouf
+-   Vincent Ellenrieder
 -   Tomas Garate Anderegg
 
 ------------------------------------------------------------------------
